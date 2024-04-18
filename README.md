@@ -6,5 +6,8 @@ This research project focuses on analyzing the resurgence of measles over the pa
 </p>
 
 ## Recent Rise of Measels Cases in United States
-![plot](https://github.com/harithaaji/Emerging-Research-Measles-Research-Project/blob/main/chart.png?raw=true)
+<p align = "center">
+  <img src ="https://github.com/harithaaji/Emerging-Research-Measles-Research-Project/blob/main/chart.png?raw=true"/>
+</p>
+
 ##
